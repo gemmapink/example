@@ -29,14 +29,14 @@ var APP_DATA = {
         "fov": 1.5470055774335754
       },
       "linkHotspots": [],
-      "infoHotspots": [
-        {
-          "yaw": 0.9096156076341018,
-          "pitch": -0.12297183386807653,
-          "title": "Title",
-          "text": "<div>train station: The B&amp;O Railroad Station, built in 1886, fueled Aberdeen's growth for the seven decades it was in use. It facilitated the canning industry's expansion and served as a vital transportation hub during WWI and WWII, moving troops and supplies. Passenger service ceased in 1958, and the station was abandoned by the railroad in the early 1990s.</div><div><br></div><div>Click here to learn more!</div><div><br></div>"
-        }
-      ]
+"infoHotspots": [
+    {
+        "yaw": 0.9096156076341018,
+        "pitch": -0.12297183386807653,
+        "title": "Title",
+        "text": "<div>train station: The B&amp;O Railroad Station, built in 1886, fueled Aberdeen's growth for the seven decades it was in use. It facilitated the canning industry's expansion and served as a vital transportation hub during WWI and WWII, moving troops and supplies. Passenger service ceased in 1958, and the station was abandoned by the railroad in the early 1990s.</div><div><br></div><div><a href='https://tv.youtube.com/watch/8mp8Jv0d1cg?onboard=1&vp=0gEEEgIwAQ%3D%3D'>Click here to learn more!</a></div>"
+    }
+]
     }
   ],
   "name": "Project Title",
