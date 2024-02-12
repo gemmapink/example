@@ -39,7 +39,7 @@ var APP_DATA = {
 ]
     }
   ],
-  "name": "Project Title",
+  "name": "West Bel Air Avenue Virtual Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
