@@ -42,7 +42,7 @@ var APP_DATA = {
   "name": "West Bel Air Avenue Virtual Tour",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
