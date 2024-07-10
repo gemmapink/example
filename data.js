@@ -33,7 +33,7 @@ var APP_DATA = {
     {
         "yaw": 0.9096156076341018,
         "pitch": -0.12297183386807653,
-        "title": "nah",
+        "title": "Bakerfield Elementary",
 "text": "<div>Bakerfield Elementary School, located on <u> Baker Street </u> in Aberdeen, was built on a former farm <u>field </u> belonging to the C. W. <u> Baker family </u>, one of Aberdeen’s most prominent canners of sugar corn. </div><div><br></div><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2024/07/Bakerfield-Elementary.pdf' style='color:lightblue' target=\"_blank\">here </a> to learn more!</div>"    }
 ]
     }
