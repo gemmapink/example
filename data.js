@@ -34,7 +34,13 @@ var APP_DATA = {
         "yaw": 0.9096156076341018,
         "pitch": -0.12297183386807653,
         "title": "Bakerfield Elementary",
-"text": "<div>Bakerfield Elementary School, located on <u> Baker Street </u> in Aberdeen, was built on a former farm <u>field </u> belonging to the C. W. <u> Baker family </u>, one of Aberdeen’s most prominent canners of sugar corn. </div><div><br></div><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2024/07/Bakerfield-Elementary.pdf' style='color:lightblue' target=\"_blank\">here </a> to learn more!</div>"    }
+"text": "<div>The Historic B&O Train Station, designed by renowned architect Frank Furness in 1885, played an important role in Aberdeen's growth and economy. Connecting Aberdeen to major cities such as Baltimore, Philadelphia, and New York, the station facilitated both freight and passenger travel, fueling the city's expansion and serving as a vital hub for the emerging canning industry. Today, the Aberdeen Station stands as one of only two surviving stations designed by Mr. Furness, a reminder of Aberdeen’s rich history.
+
+Aberdeen's landscape shifted in 1917 when the federal government bought farmland for the Aberdeen Proving Grounds, dealing a blow to the local canning industry. Despite this setback, the station adapted to wartime demands, transporting troops, supplies, and workers during both World Wars. It also transported local passengers, hosting the luxury Royal Blue Line trains between Washington, D.C.,  New York, St. Louis, and Chicago. As trains became larger and faster, the eves of the the train station were sliced off to allow more clearance.
+
+However, the glory days of the station ended in 1958 when the B&O railroad suspended all passenger service north of Baltimore. As the apparent need for the rails diminished, the station's function and infrastructure underwent significant changes. From then on, the station became a freight and maintenance operations shop until the early 1990s, at which time the railroad boarded up the building, leaving it to the elements.
+
+In December of 2014, the station was moved 50 feet back from it’s original position, in order to move it away from the tracks and begin restoration efforts. Such efforts are being spearheaded by the Friends of the Aberdeen B&O Train Station, including the installation of new roofing, replacement of doors and windows, and much more. </div><div><br></div><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2024/07/Bakerfield-Elementary.pdf' style='color:lightblue' target=\"_blank\">here </a> to learn more!</div>"    }
 ]
     }
   ],
