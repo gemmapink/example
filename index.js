@@ -207,7 +207,11 @@
     }
   }
 
-
+  function showSceneList() {
+    sceneListElement.classList.add('enabled');
+    sceneListToggleElement.classList.add('enabled');
+  }
+  
   function hideSceneList() {
     sceneListElement.classList.remove('enabled');
     sceneListToggleElement.classList.remove('enabled');
