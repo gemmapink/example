@@ -286,7 +286,6 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 .mobile #sceneList.enabled {
   margin-left: 100%;
-  visilibity: visible;
 }
 
 .mobile #sceneList .scenes {
@@ -295,7 +294,6 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneList.enabled {
   margin-left: 220px;
-  visilibity: visible;
   
 }
 
